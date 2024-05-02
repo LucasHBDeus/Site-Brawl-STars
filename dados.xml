@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recompensas>
+    <pirata>
+        <id>	1	</id>
+        <nome>	Shelly	</nome>
+        <recompensa>	Hipercarga	</recompensa>
+        <alcunha>	"Chega de papo!"	</alcunha>
+        <status>	Destruidora	</status>
+    </pirata>
+    <pirata>
+        <id>	2	</id>
+        <nome>	Colt	</nome>
+        <recompensa>	Hipercarga	</recompensa>
+        <alcunha>	"Beldade"	</alcunha>
+        <status>	Destruidor	</status>
+    </pirata>
+    <pirata>
+        <id>	3	</id>
+        <nome>	Brock	</nome>
+        <recompensa>	Hipercarga	</recompensa>
+        <alcunha>	"Buuum!"	</alcunha>
+        <status>	Tiro preciso	</status>
+    </pirata>
+    <pirata>
+        <id>	4	</id>
+        <nome>	Dynamike	</nome>
+        <recompensa>	Hipercarga	</recompensa>
+        <alcunha>	"Carga explosiva"	</alcunha>
+        <status>	Detonador	</status>
+    </pirata>
+    <pirata>
+        <id>	5	</id>
+        <nome>	8-Bit	</nome>
+        <recompensa>	Poder 11	</recompensa>
+        <alcunha>	"SYS 64738"	</alcunha>
+        <status>	Destruidor	</status>
+    </pirata>
+    <pirata>
+        <id>	6	</id>
+        <nome>	Tick	</nome>
+        <recompensa>	Hipercarga	</recompensa>
+        <alcunha>	"Perdi a cabeça!"	</alcunha>
+        <status>	Detonador	</status>
+    </pirata>
+    <pirata>
+        <id>	7	</id>
+        <nome>	Angelo	</nome>
+        <recompensa>	Poder 11	</recompensa>
+        <alcunha>	"Sanguessuga"	</alcunha>
+        <status>	Tiro preciso	</status>
+    </pirata>
+    <pirata>
+        <id>	8	</id>
+        <nome>	Buzz	</nome>
+        <recompensa>	Hipercarga	</recompensa>
+        <alcunha>	"Só na malandragem!"	</alcunha>
+        <status>	Algoz	</status>
+    </pirata>
+    <pirata>
+        <id>	9	</id>
+        <nome>	Spike	</nome>
+        <recompensa>	Hipercarga	</recompensa>
+        <alcunha>	"Sem igual"	</alcunha>
+        <status>	Destruidor	</status>
+    </pirata>
+    <pirata>
+        <id>	10	</id>
+        <nome>	Cordelius	</nome>
+        <recompensa>	Hipercarga	</recompensa>
+        <alcunha>	"Tóxico"	</alcunha>
+        <status>	Algoz	</status>
+    </pirata>
+    
+</recompensas>																														
